@@ -8,3 +8,5 @@ def checkin(word):
             return True
         else:
             print("Brooo Yoo, its not a vowel word> hehehhe")
+
+print(checkin("Pdlkjdkj"))
